@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Levi!
-
-## 🚀 About Me
-I'm studying Business Informatics and I'm currently learnin Vim.
+I'm currently learnin Vim.
 
 ## 🛠 Skills
 - Language: Typescript 📝
