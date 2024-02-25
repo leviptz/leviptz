@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Levi!
-I'm currently learnin Vim.
+# 👋 Hi, I'm Levi! I'm currently learnig Vim.
+
 
 ## 🛠 Skills
 - Language: Typescript 📝
