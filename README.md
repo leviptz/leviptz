@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Levi!
 I'm currently learnig Vim.
 
-## 🛠 Skills
-- Language: Typescript 📝
-- Frameworks: NextJS 🖥
+## 🛠 Typescript & NextJS
 
 ## 📈 GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=leviptz&show_icons=true&theme=radical)
